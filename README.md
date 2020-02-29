@@ -1,2 +1,3 @@
-# Easy_StreetCounter
-StreetCounter tool for Local investigators
+# SakuraManager
+Add private elements to OSM POI.
+
