@@ -1,3 +1,4 @@
-# SakuraManager
-Add private elements to OSM POI.
-
+# Sakura Manager
+Sakura Managemnt tool for owners
+* Maintenance history
+* Photo management
